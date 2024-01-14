@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Zeyada&family=Merriweather&display=swap');
+
+h1 {
+  font-family: "Zeyada";
+}
+
+h2 {
+  font-family: "Merriweather";
+}
+
+p {
+  font-family: "Merriweather";
+  text-align: center;
+}
+
+.bar-item {
+  font-family: "Merriweather";
+}
+
+a {
+  text-align: center;
+}
+
+/*img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5em;
+  opacity: 0.5;
+}*/
+
+.reven {
+  opacity: 1;
+  margin-left: 0;
+  width: 60%;
+  border: 1em solid white;
+  border-radius: 0.5em;
+  margin-left: 2%;
+}
+
+
+.homePage {
+  justify-content: space-between;
+}
+
